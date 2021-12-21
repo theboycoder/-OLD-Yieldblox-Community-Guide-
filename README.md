@@ -3,4 +3,8 @@
 
 
 <h1 align="center"> Yieldblox Community Guide </h1>
-<p align="center">YieldBlox is a decentralized finance (DeFi) protocol for lending and FX forwards built on [Stellar Website](https://www.stellar.org/) </p>
+<p align="center">YieldBlox is a decentralized finance (DeFi) protocol for lending and FX forwards built on  </p>
+
+
+
+
