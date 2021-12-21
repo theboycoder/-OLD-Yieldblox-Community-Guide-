@@ -17,3 +17,6 @@
 - [LinkedIn](https://www.linkedin.com/company/script3)
 
 ## Getting Started
+
+## Yieldblox Platform Guide
+(coming soon)
