@@ -1,1 +1,1 @@
-# Yieldblox-Community-Guide-
+# Yieldblox Community Guide 
