@@ -13,5 +13,7 @@
 - [Blog](https://script3.medium.com/)
 - [Discord](https://discord.com/invite/XQ6YS5usCe)
 - [Keybase](https://keybase.io/team/script3)
-- [Script3 Reddit](https://www.reddit.com/r/Script3/)
+- [Reddit](https://www.reddit.com/r/Script3/)
 - [LinkedIn](https://www.linkedin.com/company/script3)
+
+## Getting Started
