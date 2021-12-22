@@ -17,6 +17,21 @@
 - [LinkedIn](https://www.linkedin.com/company/script3)
 
 ## Getting Started
+<h4>About</h4>
+
+## Talks and AMA
+- Stellar Meridian 2021
+  - [Markus Paulson - Script3 Meridian Session](https://meridian.stellar.org/agenda/investing-in-the-stellar-communitys-vision/)
+
+- Podcasts 
+  - [Stellar Global - Sam Connor YieldBlox Interview](https://www.youtube.com/watch?v=GmRzH067c4s)
+  - [Stellar Global - Smart Contracts Interview with Markus and Tyler](https://www.youtube.com/watch?v=IxbYcHwWyQ0)
+  - [Stellar Global - Project Venus DeFi on Stellar](https://www.youtube.com/watch?v=UH4XkDFb7IE)
+
+- AMA 
+  - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
+
+
 
 ## Yieldblox Platform Guide
-(coming soon)
+(coming soon
