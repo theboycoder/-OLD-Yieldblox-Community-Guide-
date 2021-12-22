@@ -40,7 +40,8 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 ## Yieldblox Platform Guide - *full guide coming soon*
 
 - [YieldBlox Demo](https://meridian.stellar.org/demos/yieldblox/) - YieldBlox's pre beta platform demo presented at Meridian 2021
-
+- [Game Theory of YBX +10](https://docs.ybx.script3.io/user-docs/ybx-tokens/game-theory-of-ybx) - High-level rational decision making with YBX tokens and the YieldBlox protocol
+- Mobile User Guide - *coming soon*
 
 ## Community
 - [Discord](https://discord.com/invite/XQ6YS5usCe) - The YieldBlox Discord is an multilingual community with active members all over the globe. The server holds key discussions from community driven governance to the future of YieldBlox. The discord server is open to everyone and welcomes newcomers to connect with the community and ask questions.
@@ -69,7 +70,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 
 
-## Tokenomics and Network Stats
+## Token and Network Stats
 - YBX Tokenmics and Supply
   - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
 
@@ -77,6 +78,12 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [CoinGecko](https://www.coingecko.com/en/coins/yieldblox)
   - [SDEX Explorer](https://sdexexplorer.com/assets/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
   - [CoinMarketCap](https://coinmarketcap.com/currencies/yieldblox/)
+  
+ - Exchanges 
+     *YBX is currently only available on the SDEX*
+    - [StellarTerm](https://stellarterm.com/markets/)
+    - [LOBSTR](https://lobstr.co/)
+    - [StellarX](https://www.stellarx.com/)
   
 - YBX Stellar Dex Network Data
   - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
