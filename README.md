@@ -81,7 +81,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 - YBX Token Data 
   - [CoinGecko](https://www.coingecko.com/en/coins/yieldblox)
-  - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - 
+  - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1)  
   - [SDEX Explorer](https://sdexexplorer.com/assets/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
   - [CoinMarketCap](https://coinmarketcap.com/currencies/yieldblox/) - *Currently Untracked Listing*
   
