@@ -71,7 +71,6 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 - Reads and Articles
   - [Leveling Up YieldBlox — Protocol Owned Debt and Other Stuff](https://medium.com/script3/leveling-up-yieldblox-protocol-owned-debt-and-other-stuff-52f7429d06f2)
   - [YieldBlox will transform Capital and Incentives in the Stellar Ecosystem](https://medium.com/script3/yieldblox-will-transform-capital-and-incentives-in-the-stellar-ecosystem-828be5023765)
-  - [Starlight: Layer 2 Payment Protocol on Stellar](https://stellar.org/blog/starlight-a-layer-2-payment-channel-protocol-for-stellar) 
   - [The Financial Derivative Ecosystem is Old - Decentralized Ledger Technology is its Fountain of Youth](https://dl.acm.org/doi/10.1145/3399871.3399904) - Paper published by Markus Paulson
   
 ## Token and Network Stats
