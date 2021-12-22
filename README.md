@@ -41,8 +41,6 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 - [YieldBlox Demo](https://meridian.stellar.org/demos/yieldblox/) - YieldBlox's pre beta platform demo presented at Meridian 2021
 
-- General Resources
- - [Freighter](https://www.freighter.app/) 
 
 ## Community
 - [Discord](https://discord.com/invite/XQ6YS5usCe) - The YieldBlox Discord is an multilingual community with active members all over the globe. The server holds key discussions from community driven governance to the future of YieldBlox. The discord server is open to everyone and welcomes newcomers to connect with the community and ask questions.
