@@ -96,6 +96,7 @@ AMMs are highly complex investment vehicles and before you provide any Liquidity
 - [Understanding AMMs and Liquidity Pools](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/README.md#videos-talks-and-ama)
 - [Intro to AMMs on Stellar](https://stellar.org/blog/introducing-automated-market-makers-on-stellar)
 - [How to use AMMs on StellarX](https://medium.com/stellarxhq/amms-on-stellarx-b0f9c493936c)
+- [XLM/YBX Liquidity Pair](https://www.stellarx.com/amm/analytics/native/YBX:GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
 
 
 ## Technical Docs and Protocol
