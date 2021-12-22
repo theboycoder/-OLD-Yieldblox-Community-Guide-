@@ -62,7 +62,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
   
 - General Resources
-  - [Intro to Stellar?](https://stellar.org/learn/intro-to-stellar) 
+  - [Intro to Stellar](https://stellar.org/learn/intro-to-stellar) 
   - [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA)
   - [What are Dapps?](https://www.youtube.com/watch?v=oPIupbsVimc)
   - [What are AMMs?](https://www.youtube.com/watch?v=1PbZMudPP5E) 
