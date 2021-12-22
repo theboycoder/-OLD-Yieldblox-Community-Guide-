@@ -69,7 +69,6 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [The Financial Derivative Ecosystem is Old - Decentralized Ledger Technology is its Fountain of Youth](https://dl.acm.org/doi/10.1145/3399871.3399904) - Paper published by Markus Paulson
 
 
-
 ## Token and Network Stats
 - YBX Tokenmics and Supply
   - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
