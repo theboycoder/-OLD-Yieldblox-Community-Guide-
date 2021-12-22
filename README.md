@@ -39,12 +39,6 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 
 
-
-
-
-
-
-
 ## Community
 - [Discord](https://discord.com/invite/XQ6YS5usCe) - The YieldBlox Discord is an multilingual community with active members all over the globe. The server holds key discussions from community driven governance to the future of YieldBlox. The discord server is open to everyone and welcomes newcomers to connect with the community and ask questions.
 
@@ -63,23 +57,28 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 - AMA 
   - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
 
-## Technical Docs
-*bold*
 
-## Token and Network Stats
-- Ybx Token Issuance and Supply
-  - [YieldBlox Token Docs](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
+## Tokenomics and Network Stats
+- YBX Tokenmics and Supply
+  - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
 
-- YBX Token Tracking 
+- YBX Token Data 
   - [CoinGecko](https://www.coingecko.com/en/coins/yieldblox)
   - [SDEX Explorer](https://sdexexplorer.com/assets/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
   - [CoinMarketCap](https://coinmarketcap.com/currencies/yieldblox/)
   
-- YBX Stellar Dex Network
+- YBX Stellar Dex Network Data
   - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
   - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3 asset issuance account
 
-YBX 
+## Technical Docs and Protocol
+
+- [YieldBlox Turrets](https://docs.ybx.script3.io/technical-docs/yieldblox-turrets) - *coming soon*
+- [Stellar Turret Docs](https://turrets.stellar.org/)
+- [Audits](https://docs.ybx.script3.io/resources/technical-resources) -  *in process*
+- [YieldBlox Protocol Assets](https://docs.ybx.script3.io/technical-docs/yieldblox-protocol-assets)
+
+
 
 
 ## Yieldblox Platform Guide
