@@ -41,9 +41,8 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 - [YieldBlox Demo](https://meridian.stellar.org/demos/yieldblox/) - YieldBlox's pre beta platform demo presented at Meridian 2021
 
-
-
-
+- General Resources
+ - [Freighter](https://www.freighter.app/) 
 
 ## Community
 - [Discord](https://discord.com/invite/XQ6YS5usCe) - The YieldBlox Discord is an multilingual community with active members all over the globe. The server holds key discussions from community driven governance to the future of YieldBlox. The discord server is open to everyone and welcomes newcomers to connect with the community and ask questions.
@@ -62,6 +61,14 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 - AMA 
   - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
+  
+- General Resources
+  - [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA)
+  - [What are Dapps?](https://www.youtube.com/watch?v=oPIupbsVimc)
+  - [What are AMMs?](https://www.youtube.com/watch?v=1PbZMudPP5E) 
+  - [What is a Liquidity Pool?](https://www.youtube.com/watch?v=dVJzcFDo498)
+  - [The Financial Derivative Ecosystem is Old - Decentralized Ledger Technology is its Fountain of Youth](https://dl.acm.org/doi/10.1145/3399871.3399904) - Paper published by Markus Paulson
+
 
 
 ## Tokenomics and Network Stats
