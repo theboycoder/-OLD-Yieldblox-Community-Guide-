@@ -73,6 +73,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 ## Token and Network Stats
 - YBX Tokenmics and Supply
   - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
+  - [How to set up a Trustline](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-airdrop-setup#how-to-set-up-a-trustline-to-ybx) - Set up trustlines to YBX
 
 - YBX Token Data 
   - [CoinGecko](https://www.coingecko.com/en/coins/yieldblox)
@@ -87,7 +88,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   
 - YBX Stellar Dex Network Data
   - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
-  - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3 asset issuance account
+  - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3.io asset issuance account
 
 ## Technical Docs and Protocol
 
