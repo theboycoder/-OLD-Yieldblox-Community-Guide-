@@ -108,5 +108,4 @@ AMMs are highly complex investment vehicles and before you provide any Liquidity
 - [YieldBlox Turrets](https://docs.ybx.script3.io/technical-docs/yieldblox-turrets) - *coming soon*
 - [Stellar Turret Docs](https://turrets.stellar.org/)
 - [Audits](https://docs.ybx.script3.io/resources/technical-resources) -  *in process*
-- 
 
