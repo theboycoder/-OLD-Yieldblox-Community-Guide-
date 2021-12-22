@@ -19,7 +19,7 @@
 
 ## Getting Started
 
-Welcome to the first DeFi Platform built on Stellar, This guide will help you get started with your first step into DeFi in the Stellar Ecosystem. 
+Welcome to the first DeFi Platform built on Stellar, This guide will help you through the world of DeFi in the Stellar Ecosystem. This a community driven guide which provides in-depth insights into YieldBlox along with all the resources and tools for getting started.
 - FAQs and Overview
   - [What is YieldBlox?](https://github.com/script3/yieldblox-docs/blob/master/user-docs/general.md#what-is-yieldblox)
   - [What is DeFi?](https://docs.ybx.script3.io/user-docs/general#what-is-a-decentralized-finance-protocol)
@@ -27,6 +27,22 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you ge
   - [Staking](https://docs.ybx.script3.io/user-docs/staking)
   - [Governance](https://docs.ybx.script3.io/user-docs/governance)
   - [Why Stellar?](https://docs.ybx.script3.io/user-docs/why-stellar)
+  
+- Intro to the YieldBlox Platform
+  - [YieldBlox Platform Guide]() - *coming soon*
+
+- YieldBlox Supported Wallets
+  - [Freighter](https://www.freighter.app/) 
+  - [LOBSTR Wallet Connect](https://lobstr.zendesk.com/hc/en-us/articles/4406569953938-WalletConnect-How-to-log-in-and-use-your-Stellar-wallet-from-LOBSTR-with-other-services)
+  - [Rabet](https://rabet.io/)
+  - [Albedo](https://albedo.link/)
+
+
+
+
+
+
+
 
 
 ## Community
