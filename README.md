@@ -62,13 +62,18 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
   
 - General Resources
+  - [Intro to Stellar?](https://stellar.org/learn/intro-to-stellar) 
   - [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA)
   - [What are Dapps?](https://www.youtube.com/watch?v=oPIupbsVimc)
   - [What are AMMs?](https://www.youtube.com/watch?v=1PbZMudPP5E) 
   - [What is a Liquidity Pool?](https://www.youtube.com/watch?v=dVJzcFDo498)
+  
+- Reads and Articles
+  - [Leveling Up YieldBlox — Protocol Owned Debt and Other Stuff](https://medium.com/script3/leveling-up-yieldblox-protocol-owned-debt-and-other-stuff-52f7429d06f2)
+  - [YieldBlox will transform Capital and Incentives in the Stellar Ecosystem](https://medium.com/script3/yieldblox-will-transform-capital-and-incentives-in-the-stellar-ecosystem-828be5023765)
+  - [Starlight: Layer 2 Payment Protocol on Stellar](https://stellar.org/blog/starlight-a-layer-2-payment-channel-protocol-for-stellar) 
   - [The Financial Derivative Ecosystem is Old - Decentralized Ledger Technology is its Fountain of Youth](https://dl.acm.org/doi/10.1145/3399871.3399904) - Paper published by Markus Paulson
-
-
+  
 ## Token and Network Stats
 - YBX Tokenmics and Supply
   - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
@@ -103,5 +108,5 @@ AMMs are highly complex investment vehicles and before you provide any Liquidity
 - [YieldBlox Turrets](https://docs.ybx.script3.io/technical-docs/yieldblox-turrets) - *coming soon*
 - [Stellar Turret Docs](https://turrets.stellar.org/)
 - [Audits](https://docs.ybx.script3.io/resources/technical-resources) -  *in process*
-- [YieldBlox Protocol Assets](https://docs.ybx.script3.io/technical-docs/yieldblox-protocol-assets)
+- 
 
