@@ -37,6 +37,12 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Rabet](https://rabet.io/)
   - [Albedo](https://albedo.link/)
 
+## Yieldblox Platform Guide - *full guide coming soon*
+
+- [YieldBlox Demo](https://meridian.stellar.org/demos/yieldblox/) - YieldBlox's pre beta platform demo presented at Meridian 2021
+
+
+
 
 
 ## Community
@@ -78,8 +84,3 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 - [Audits](https://docs.ybx.script3.io/resources/technical-resources) -  *in process*
 - [YieldBlox Protocol Assets](https://docs.ybx.script3.io/technical-docs/yieldblox-protocol-assets)
 
-
-
-
-## Yieldblox Platform Guide
-(coming soon
