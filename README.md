@@ -7,7 +7,7 @@
 
 ## Official Script3 Links
 - [Script3 Website](https://www.script3.io/)
-- YieldBlox Platform (coming soon) 
+- YieldBlox Platform *(coming soon)*
 - [Github](https://github.com/script3)
 - [Twitter](https://twitter.com/script3official)
 - [Blog](https://script3.medium.com/)
@@ -31,6 +31,23 @@
 - AMA 
   - [r/Stellar Reddit AMA](https://www.reddit.com/r/Stellar/comments/n8h93s/ama_im_markus_cofounder_of_script3_were_building/)
 
+## Technical Docs
+*bold*
+
+## Token and Network Stats
+- Ybx Token Issuance and Supply
+  - [YieldBlox Token Docs](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
+
+- YBX Token Tracking 
+  - [CoinGecko](https://www.coingecko.com/en/coins/yieldblox)
+  - [SDEX Explorer](https://sdexexplorer.com/assets/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
+  - [CoinMarketCap](https://coinmarketcap.com/currencies/yieldblox/)
+  
+- YBX Stellar Dex Network
+  - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
+  - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Token asset issueing account
+
+YBX 
 
 
 ## Yieldblox Platform Guide
