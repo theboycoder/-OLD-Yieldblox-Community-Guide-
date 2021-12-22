@@ -90,6 +90,11 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
   - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3.io asset issuance account
 
+## AMMs and Liquidity Pools
+AMMs are highly complex investment vehicles and before you provide any Liquidity you should understand and learn about them before getting started. In the [General Resources Channel]() there are tools and resources to learn more about AMMs and Liquidity Pools.
+- Understanding AMMs and Liquidity Pools
+
+
 ## Technical Docs and Protocol
 
 - [YieldBlox Turrets](https://docs.ybx.script3.io/technical-docs/yieldblox-turrets) - *coming soon*
