@@ -9,6 +9,7 @@
 - [Script3 Website](https://www.script3.io/)
 - YieldBlox Platform *(coming soon)*
 - [Github](https://github.com/script3)
+- [Yieldblox Docs](https://docs.ybx.script3.io/)
 - [Twitter](https://twitter.com/script3official)
 - [Blog](https://script3.medium.com/)
 - [Discord](https://discord.com/invite/XQ6YS5usCe)
@@ -17,9 +18,24 @@
 - [LinkedIn](https://www.linkedin.com/company/script3)
 
 ## Getting Started
-<h4>About</h4>
 
-## Talks and AMA
+Welcome to the first DeFi Platform built on Stellar, This guide will help you get started with your first step into DeFi in the Stellar Ecosystem. 
+- FAQs and Overview
+  - [What is YieldBlox?](https://github.com/script3/yieldblox-docs/blob/master/user-docs/general.md#what-is-yieldblox)
+  - [What is DeFi?](https://docs.ybx.script3.io/user-docs/general#what-is-a-decentralized-finance-protocol)
+  - [Lending and Borrowing](https://docs.ybx.script3.io/user-docs/lending-borrowing)
+  - [Staking](https://docs.ybx.script3.io/user-docs/staking)
+  - [Governance](https://docs.ybx.script3.io/user-docs/governance)
+  - [Why Stellar?](https://docs.ybx.script3.io/user-docs/why-stellar)
+
+
+## Community
+- [Discord](https://discord.com/invite/XQ6YS5usCe) - The YieldBlox Discord is an multilingual community with active members all over the globe. The server holds key discussions from community driven governance to the future of YieldBlox. The discord server is open to everyone and welcomes newcomers to connect with the community and ask questions.
+
+- [Keybase](https://keybase.io/team/script3) - A Keybase team for the Yieldblox Community
+
+
+## Videos, Talks and AMA
 - Stellar Meridian 2021
   - [Markus Paulson - Script3 Meridian Session](https://meridian.stellar.org/agenda/investing-in-the-stellar-communitys-vision/)
 
