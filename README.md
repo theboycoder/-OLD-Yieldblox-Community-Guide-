@@ -45,7 +45,7 @@
   
 - YBX Stellar Dex Network
   - [Stellar Expert](https://stellar.expert/explorer/public/asset/YBX-GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX-1) - Ledger explorer and analytics platform
-  - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Token asset issueing account
+  - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3 asset issuance account
 
 YBX 
 
