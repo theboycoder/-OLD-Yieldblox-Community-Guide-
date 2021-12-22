@@ -91,9 +91,8 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3.io asset issuance account
 
 ## AMMs and Liquidity Pools
-AMMs are highly complex investment vehicles and before you provide any Liquidity you should understand and learn about them before getting started. In the [General Resources Channel]() there are tools and resources to learn more about AMMs and Liquidity Pools.
-- Understanding AMMs and Liquidity Pools
-
+AMMs are highly complex investment vehicles and before you provide any Liquidity you should understand and learn about them before getting started. In the [General Resources Channel]() there are tools and resources to learn more about AMMs and Liquidity Pools. In the Stellar Ecosystem there are community run liquidity pools for YBX pairings but the most popular pairing is XLM/YBX. The pair is currently(*subject to change*) voted in by the community for the [AQUA](https://aqua.network/) liquidity reward program, which provides hourly AQUA rewards to those providing liquidity to this pair.
+- [Understanding AMMs and Liquidity Pools](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/README.md#videos-talks-and-ama)
 
 ## Technical Docs and Protocol
 
