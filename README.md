@@ -75,7 +75,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [The Financial Derivative Ecosystem is Old - Decentralized Ledger Technology is its Fountain of Youth](https://dl.acm.org/doi/10.1145/3399871.3399904) - Paper published by Markus Paulson
   
 ## Token and Network Stats
-- YBX Tokenmics and Supply
+- YBX Tokenomics and Supply
   - [YieldBlox Token](https://docs.ybx.script3.io/user-docs/ybx-tokens) - in depth documentation for the YBX token
   - [How to set up a Trustline](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-airdrop-setup#how-to-set-up-a-trustline-to-ybx) - Set up trustlines to YBX
 
