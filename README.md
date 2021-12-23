@@ -95,14 +95,13 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3.io asset issuance account
 
 ## AMMs and Liquidity Pools
-AMMs are highly complex investment vehicles and before you provide any Liquidity you should understand and learn about them before getting started. In the [General Resources Channel](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/README.md#getting-started) there are tools and resources to learn more about AMMs and Liquidity Pools. In the Stellar Ecosystem there are community run liquidity pools for YBX pairings but the most popular pairing is XLM/YBX. The pair is currently(*subject to change*) voted in by the community for the [AQUA](https://aqua.network/) liquidity reward program, which provides hourly AQUA rewards to those providing liquidity to this pair along with trading fees from the AMM shares.
+AMMs are highly complex investment vehicles and it's best to learn and understand them before getting started. In the [General Resources](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/README.md#getting-started) section there are tools and resources to learn more about AMMs and Liquidity Pools. In the Stellar Ecosystem users can now access products and interfaces created by ecosystem developers to deposit into liquidity pools. This includes the XLM/YBX pair which is one of the more popular pairs in the stellar liqudity pools. The pair is also currently(*subject to change*) voted in by the community for the [AQUA](https://aqua.network/) liquidity rewards program, which provides hourly AQUA rewards to those providing liquidity to this pair along with trading fees from the AMM shares.
 
 - [Understanding AMMs and Liquidity Pools](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/README.md#videos-talks-and-ama)
 - [Intro to AMMs on Stellar](https://stellar.org/blog/introducing-automated-market-makers-on-stellar)
 - [How to use AMMs on StellarX](https://medium.com/stellarxhq/amms-on-stellarx-b0f9c493936c)
 - [XLM/YBX Liquidity Pair](https://www.stellarx.com/amm/analytics/native/YBX:GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
-
-- [Staking AMM Shares](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-tokenomics#level-2-users-can-stake-ybx-usdc-or-ybx-xlm-amm-shares-to-earn-a-portion-of-yieldblox-protocol-reven) 
+- [Staking AMM Shares on YieldBlox](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-tokenomics#level-2-users-can-stake-ybx-usdc-or-ybx-xlm-amm-shares-to-earn-a-portion-of-yieldblox-protocol-reven) 
 
 
 ## Technical Docs and Protocol
