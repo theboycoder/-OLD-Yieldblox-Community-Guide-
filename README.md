@@ -102,7 +102,7 @@ AMMs are highly complex investment vehicles and before you provide any Liquidity
 - [How to use AMMs on StellarX](https://medium.com/stellarxhq/amms-on-stellarx-b0f9c493936c)
 - [XLM/YBX Liquidity Pair](https://www.stellarx.com/amm/analytics/native/YBX:GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX)
 
-- [Staking AMM Shares](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-tokenomics#level-2-users-can-stake-ybx-usdc-or-ybx-xlm-amm-shares-to-earn-a-portion-of-yieldblox-protocol-reven) - YBX holders will also be able to stake YBX:USDC or YBX:XLM AMM shares to receive sYBX at the same rate as staking just YBX. Not only will these users earn a portion of protocol revenue, they will also earn trading fees from the AMM shares.
+- [Staking AMM Shares](https://docs.ybx.script3.io/user-docs/ybx-tokens/ybx-tokenomics#level-2-users-can-stake-ybx-usdc-or-ybx-xlm-amm-shares-to-earn-a-portion-of-yieldblox-protocol-reven) 
 
 
 ## Technical Docs and Protocol
