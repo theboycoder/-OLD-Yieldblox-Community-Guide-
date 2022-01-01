@@ -95,7 +95,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Issueing Account](https://stellar.expert/explorer/public/account/GBUYYBXWCLT2MOSSHRFCKMEDFOVSCAXNIEW424GLN666OEXHAAWBDYMX) - Script3.io asset issuance account
 
 ## Governance Proposals 
-- Launch Day Proposals *currently active*
+- Launch Day Proposals - *currently active*
   - [YGP - PL001 - Proposed Token Listings](https://github.com/yieldblox/yieldblox-gov/blob/main/governance/YGP%20-%20PL001%20-%20Proposed%20Token%20Listings.md) 
   - [YGP - PL002 - Proposed YBX Issuance](https://github.com/yieldblox/yieldblox-gov/blob/main/governance/YGP-PL002-Proposed_YBX_Issuance.md)  
 
