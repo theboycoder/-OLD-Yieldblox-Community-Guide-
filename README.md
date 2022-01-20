@@ -49,7 +49,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 - [Keybase](https://keybase.io/team/script3) - A Keybase team for the Yieldblox Community
 
 
-## Videos, Talks and AMA
+## Videos, Talks and Blogs
 - Stellar Meridian 2021
   - [Markus Paulson - Script3 Meridian Session](https://meridian.stellar.org/agenda/investing-in-the-stellar-communitys-vision/)
 
