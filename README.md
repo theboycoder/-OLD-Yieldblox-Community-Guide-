@@ -7,7 +7,7 @@
 
 ## Official Script3 Links
 - [Script3 Website](https://www.script3.io/)
-- YieldBlox Platform *(coming soon)*
+- [YieldBlox Platform](https://www.yieldblox.finance/)
 - [Github](https://github.com/script3)
 - [Yieldblox Docs](https://docs.ybx.script3.io/)
 - [Twitter](https://twitter.com/script3official)
