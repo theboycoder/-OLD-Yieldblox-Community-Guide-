@@ -35,6 +35,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Freighter](https://www.freighter.app/) 
   - [LOBSTR Wallet Connect](https://lobstr.zendesk.com/hc/en-us/articles/4406569953938-WalletConnect-How-to-log-in-and-use-your-Stellar-wallet-from-LOBSTR-with-other-services)
   - [Rabet](https://rabet.io/)
+  - [xBull](https://xbull.app/)
   - [Albedo](https://albedo.link/)
 
 ## Yieldblox Platform Guide - *full guide coming soon*
