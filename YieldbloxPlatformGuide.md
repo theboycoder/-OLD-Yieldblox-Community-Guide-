@@ -1,5 +1,5 @@
 
-<h1 align="center"> Yieldblox Platform Guide </h1>
+<h1 align="center"> Yieldblox Platform Guide - Beta</h1>
 <p align="center">Yieldblox Platform Guide will be a work in progress and it will be updated regularly. There will be bugs this is a testnet beta, the developers will be fixing them as they come up. To report bugs or for support join the YieldBlox Discord Server https://discord.com/invite/XQ6YS5usCe. </p>
 
 ## Intro
