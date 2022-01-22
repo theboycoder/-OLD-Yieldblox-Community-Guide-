@@ -97,3 +97,12 @@ Sign and confirm the transaction
 ![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150630941-3ec08af5-0f07-4a37-94c2-412dc97f69b4.png)
 
 ## Withdraw and Repay
+
+Lenders can withdraw assets by using YieldBlox's smart contracts to burn the pool tokens they received for lending assets. Doing so will also withdraw all interest the lender has accrued. 
+
+![withdraw](https://user-images.githubusercontent.com/45983304/150631170-735dd13e-a732-41f4-b24d-10668e0c489d.png)
+
+Borrowers repay loans by returning all borrowed assets and accrued interest to the YieldBlox lending pool. After doing so, they can withdraw their collateral deposits if they wish.
+
+![repay](https://user-images.githubusercontent.com/45983304/150631263-2dc9c4c0-3d68-43ba-9ca2-dccd8f22e8eb.png)
+
