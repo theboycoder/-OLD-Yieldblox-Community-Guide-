@@ -57,13 +57,12 @@ Once the process is successfully done, Your transaction will be submitted!
 
 When borrowing, users deposit assets into the lending pool and withdraw assets they wish to borrow from the pool. To repay, the borrower returns the borrowed assets to the lending pool. Then they are allowed to withdraw their collateral if they choose.
 
-![Untitled-2021-12-22-1013-borrow](https://user-images.githubusercontent.com/45983304/150629982-0c29a6fb-1096-437e-bf83-99dba9ce89f3.png)
-
 Click on the asset you want to borrow and enter the amount to borrow
 
-![borrow max](https://user-images.githubusercontent.com/45983304/150630102-d4c67064-705c-4aa8-a32d-cdff21874592.png)
+![Untitled-2021-12-22-1013-borrow](https://user-images.githubusercontent.com/45983304/150629982-0c29a6fb-1096-437e-bf83-99dba9ce89f3.png)
 
-Continue the borrow confirmation for the borrowing asset transaction
+
+Continue the borrow confirmation after entering the borrow amount for the asset
 
 ![144a78ae779fca8aefb7ed6b93caa92b](https://user-images.githubusercontent.com/45983304/150630169-e623568e-2ba7-481a-9b84-6be7d12c8765.png)
 
@@ -78,4 +77,11 @@ Confirm and sign the transaction with your wallet to finish the borrowing proces
 Once the process is successfully done, Your transaction will be submitted!
 
 ![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150630316-62baa55a-7b1a-476a-b885-d311c73c2d53.png)
+
+After borrowing assets, the asset borrowed can be lent back into the protocol 
+
+![lending borrowed asset home page](https://user-images.githubusercontent.com/45983304/150630560-7be872aa-61da-453b-9fd2-cd8fcd81133c.png)
+
+## Using the Platform - Lending Borrowed Assets
+
 
