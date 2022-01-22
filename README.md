@@ -29,7 +29,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [Why Stellar?](https://docs.ybx.script3.io/user-docs/why-stellar)
   
 - Intro to the YieldBlox Platform
-  - [YieldBlox Platform Guide]() - *coming soon*
+  - [YieldBlox Platform Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md) - *work in progress*
 
 - YieldBlox Supported Wallets
   - [Freighter](https://www.freighter.app/) 
