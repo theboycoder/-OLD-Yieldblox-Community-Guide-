@@ -42,6 +42,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
 
 - [YieldBlox Demo](https://meridian.stellar.org/demos/yieldblox/) - YieldBlox's pre beta platform demo presented at Meridian 2021
 - [Game Theory of YBX +10](https://docs.ybx.script3.io/user-docs/ybx-tokens/game-theory-of-ybx) - High-level rational decision making with YBX tokens and the YieldBlox protocol
+- [Yieldblox Beta Platform Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md) - *work in progress*
 - Mobile User Guide - *coming soon*
 
 ## Community
