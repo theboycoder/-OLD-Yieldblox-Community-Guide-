@@ -78,10 +78,9 @@ Once the process is successfully done, Your transaction will be submitted!
 
 ![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150630316-62baa55a-7b1a-476a-b885-d311c73c2d53.png)
 
-After borrowing assets, the asset borrowed can be lent back into the protocol 
+After borrowing assets, the asset borrowed can be lent back into the protocol. The user must ensure their health factor will be above 1.10 after the loan has been originated. If a user account's health factor falls below 1.00, its positions can be liquidated until its health factor reaches 1.00.
 
 ![lending borrowed asset home page](https://user-images.githubusercontent.com/45983304/150630560-7be872aa-61da-453b-9fd2-cd8fcd81133c.png)
 
-## Using the Platform - Lending Borrowed Assets
 
 
