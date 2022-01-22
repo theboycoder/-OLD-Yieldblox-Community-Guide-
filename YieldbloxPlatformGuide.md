@@ -59,4 +59,15 @@ When borrowing, users deposit assets into the lending pool and withdraw assets t
 
 ![Untitled-2021-12-22-1013-borrow](https://user-images.githubusercontent.com/45983304/150629982-0c29a6fb-1096-437e-bf83-99dba9ce89f3.png)
 
+Click on the asset you want to borrow and enter the amount to borrow
+
+![borrow max](https://user-images.githubusercontent.com/45983304/150630102-d4c67064-705c-4aa8-a32d-cdff21874592.png)
+
+Continue the borrow confirmation for the borrowing asset transaction
+
+![144a78ae779fca8aefb7ed6b93caa92b](https://user-images.githubusercontent.com/45983304/150630169-e623568e-2ba7-481a-9b84-6be7d12c8765.png)
+
+Confirm the borrowing asset transaction
+
+![confirm borrow](https://user-images.githubusercontent.com/45983304/150630240-2368fc71-10fc-4b10-8823-3ceb8d3869b8.png)
 
