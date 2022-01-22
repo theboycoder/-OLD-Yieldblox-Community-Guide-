@@ -5,10 +5,23 @@
 ## Intro
 If you are new to Stellar DeFi or unfamiliar with YieldBlox, Please read the [Community Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) and the [YieldBlox Docs](https://docs.ybx.script3.io/user-docs/general) before getting started.
 
+- Lending & Borrowing
+  - [Lending](https://docs.ybx.script3.io/user-docs/lending-borrowing/lending)
+  - [Borrowing](https://docs.ybx.script3.io/user-docs/lending-borrowing/borrowing)
+  - [Interest Rates](https://docs.ybx.script3.io/user-docs/lending-borrowing/interest-rates)
+  - [Health Factors](https://docs.ybx.script3.io/user-docs/lending-borrowing/health-factors)
+  - [Liquidations](https://docs.ybx.script3.io/user-docs/lending-borrowing/liquidations)
+  - [Default Protection](https://docs.ybx.script3.io/user-docs/lending-borrowing/default-protection)
 
+- Escrowing
+  - [What is Escrowing?](https://docs.ybx.script3.io/user-docs/escrowing)
+  
+- Governance
+  - [How does governance work on YieldBlox?](https://docs.ybx.script3.io/user-docs/governance#how-does-governance-work-on-yieldblox)
+ 
 ## Getting Started
 
-After reading the users docs and picking a [wallet](https://github.com/theboycoder/Yieldblox-Community-Guide-#getting-started) from the supported list you are ready to get started!
+After reading the users docs you are ready to get started!
 
 Visit https://www.yieldblox.finance and click on the Launch Testnet button in the right corner to launch the testnet platform
 
