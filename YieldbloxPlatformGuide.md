@@ -3,7 +3,7 @@
 <p align="center">Yieldblox Platform Guide will be a work in progress and it will be updated regularly. There will be bugs this is a testnet beta, the developers will be fixing them as they come up. To report bugs or for support join the YieldBlox Discord Server https://discord.com/invite/XQ6YS5usCe. </p>
 
 ## Intro
-If you're new to Stellar DeFi or unfamiliar with YieldBlox, Please read the [Community Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) and the [YieldBlox Docs](https://docs.ybx.script3.io/user-docs/general) before getting started.
+If you're new to DeFi on Stellar or unfamiliar with YieldBlox, Please read the [Community Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) and the [YieldBlox Docs](https://docs.ybx.script3.io/user-docs/general) before getting started.
 
 - Lending & Borrowing
   - [Lending](https://docs.ybx.script3.io/user-docs/lending-borrowing/lending)
