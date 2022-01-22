@@ -104,5 +104,4 @@ Lenders can withdraw assets by using YieldBlox's smart contracts to burn the poo
 
 Borrowers repay loans by returning all borrowed assets and accrued interest to the YieldBlox lending pool. After doing so, they can withdraw their collateral deposits if they wish.
 
-![repay](https://user-images.githubusercontent.com/45983304/150631263-2dc9c4c0-3d68-43ba-9ca2-dccd8f22e8eb.png)
-
+![repay](https://user-images.githubusercontent.com/45983304/150631311-d3b8449c-fcc4-4d33-8ed2-315d07e99579.png)
