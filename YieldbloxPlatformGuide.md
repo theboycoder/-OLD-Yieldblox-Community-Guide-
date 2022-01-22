@@ -49,6 +49,13 @@ Confirm and sign the transaction with your wallet to finish the lending process.
 
 ![4696ef9936a6dfaef5796e96e011b799](https://user-images.githubusercontent.com/45983304/150628775-674a945e-3a34-4ea7-b552-55e2cfc34a2b.png)
 
+Once the process is successfully done, Your transaction will be submitted!
+
+![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150629406-a57abf7f-3fe9-4d19-b2d7-3e2a456f4860.png)
+
 ## Using the Platform - Borrowing
 
 When borrowing, users deposit assets into the lending pool and withdraw assets they wish to borrow from the pool. To repay, the borrower returns the borrowed assets to the lending pool. Then they are allowed to withdraw their collateral if they choose.
+
+![Untitled-2021-12-22-1013- borrowwewewewe](https://user-images.githubusercontent.com/45983304/150629932-87d2dfa1-845b-4ef0-8a56-3ec4835561d6.png)
+
