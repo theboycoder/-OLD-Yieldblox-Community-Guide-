@@ -71,3 +71,11 @@ Confirm the borrowing asset transaction
 
 ![confirm borrow](https://user-images.githubusercontent.com/45983304/150630240-2368fc71-10fc-4b10-8823-3ceb8d3869b8.png)
 
+Confirm and sign the transaction with your wallet to finish the borrowing process.
+
+![6ab317bb9b0d47871a4b73297c118dbc- awd](https://user-images.githubusercontent.com/45983304/150630306-af0261cb-fb2b-4b38-bb93-9a1756b2a4eb.png)
+
+Once the process is successfully done, Your transaction will be submitted!
+
+![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150630316-62baa55a-7b1a-476a-b885-d311c73c2d53.png)
+
