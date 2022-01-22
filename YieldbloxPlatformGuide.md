@@ -30,4 +30,22 @@ Connect your wallet to login and get access to YieldBlox.
 
 ![357f5da5a1d911755d4036e0a8cb7ac6](https://user-images.githubusercontent.com/45983304/150625751-39c071eb-43cd-43cd-9243-c24f5de28a4a.png)
 
-## Using the Platform
+## Using the Platform - Lending
+Before starting to Lend and Borrow, read through the [docs](https://docs.ybx.script3.io/) or the [community guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) to get a understanding of DeFi and Stellar.
+
+Once you're logged into YieldBlox Dashboard, you can choose from any of the listed assets to lend and borrow in the YieldBlox protocol.
+
+![Untitled-2021-12-22-1013-534534](https://user-images.githubusercontent.com/45983304/150628271-ef11f469-cf20-4e31-884e-f0ecb7986558.png)
+
+Lending is simple, click on the asset you want to lend and enter the amount to deposit from your wallet.
+
+![9a4b3326dcdc411f82e06ef4fe3dcf46](https://user-images.githubusercontent.com/45983304/150628665-c4663447-3883-4bff-b6b7-c7338ccbeaf5.png)
+
+Confirm the Transaction to continue the lending process
+
+![e8e308b6b2e0fda91862c6468cd2857d](https://user-images.githubusercontent.com/45983304/150628704-b133f513-85cd-46a3-8385-5833423617ed.png)
+
+Confirm and sign the transaction with your wallet to finish the lending process.
+
+![4696ef9936a6dfaef5796e96e011b799](https://user-images.githubusercontent.com/45983304/150628775-674a945e-3a34-4ea7-b552-55e2cfc34a2b.png)
+
