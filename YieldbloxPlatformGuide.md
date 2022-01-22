@@ -31,7 +31,7 @@ Connect your wallet to login and get access to YieldBlox.
 ![357f5da5a1d911755d4036e0a8cb7ac6](https://user-images.githubusercontent.com/45983304/150625751-39c071eb-43cd-43cd-9243-c24f5de28a4a.png)
 
 ## Using the Platform - Lending
-Before starting to Lend and Borrow, read through the [docs](https://docs.ybx.script3.io/) or the [community guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) to get a understanding of DeFi and Stellar.
+Lenders provide assets to the lending pool and receive interest in return. Borrowers can [borrow](https://docs.ybx.script3.io/user-docs/lending-borrowing/borrowing) these assets by posting [collateral](https://docs.ybx.script3.io/user-docs/lending-borrowing/borrowing#what-is-collateral) and paying interest at loan repayment.
 
 Once you're logged into YieldBlox Dashboard, you can choose from any of the listed assets to lend and borrow in the YieldBlox protocol.
 
