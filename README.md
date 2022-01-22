@@ -24,7 +24,7 @@ Welcome to the first DeFi Platform built on Stellar, This guide will help you th
   - [What is YieldBlox?](https://github.com/script3/yieldblox-docs/blob/master/user-docs/general.md#what-is-yieldblox)
   - [What is DeFi?](https://docs.ybx.script3.io/user-docs/general#what-is-a-decentralized-finance-protocol)
   - [Lending and Borrowing](https://docs.ybx.script3.io/user-docs/lending-borrowing)
-  - [Staking](https://docs.ybx.script3.io/user-docs/staking)
+  - [Escrowing](https://docs.ybx.script3.io/user-docs/escrowing)
   - [Governance](https://docs.ybx.script3.io/user-docs/governance)
   - [Why Stellar?](https://docs.ybx.script3.io/user-docs/why-stellar)
   
