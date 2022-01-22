@@ -57,5 +57,6 @@ Once the process is successfully done, Your transaction will be submitted!
 
 When borrowing, users deposit assets into the lending pool and withdraw assets they wish to borrow from the pool. To repay, the borrower returns the borrowed assets to the lending pool. Then they are allowed to withdraw their collateral if they choose.
 
-![Untitled-2021-12-22-1013- borrowwewewewe](https://user-images.githubusercontent.com/45983304/150629932-87d2dfa1-845b-4ef0-8a56-3ec4835561d6.png)
+![Untitled-2021-12-22-1013-borrow](https://user-images.githubusercontent.com/45983304/150629982-0c29a6fb-1096-437e-bf83-99dba9ce89f3.png)
+
 
