@@ -82,5 +82,18 @@ After borrowing assets, the asset borrowed can be lent back into the protocol. T
 
 ![lending borrowed asset home page](https://user-images.githubusercontent.com/45983304/150630560-7be872aa-61da-453b-9fd2-cd8fcd81133c.png)
 
+The borrowed asset follows the same structure as lending. The user will be able to deposit the asset and lend it to the protocol.
 
+![ETH borrow deposit](https://user-images.githubusercontent.com/45983304/150630816-3c4430d6-1898-499c-a1b4-669bb8cd5545.png)
 
+Confirm the asset deposit
+
+![confirm eth borrow deposit](https://user-images.githubusercontent.com/45983304/150630875-28f6fbd4-8295-4934-9b2a-5e55d78851ee.png)
+
+Sign and confirm the transaction 
+
+![6ab317bb9b0d47871a4b73297c118dbc- awd](https://user-images.githubusercontent.com/45983304/150630948-2a831e8c-c97d-4c3a-879b-f144451ad550.png)
+
+![87ba6e96277247439a684045e72f07e2](https://user-images.githubusercontent.com/45983304/150630941-3ec08af5-0f07-4a37-94c2-412dc97f69b4.png)
+
+## Withdraw and Repay
