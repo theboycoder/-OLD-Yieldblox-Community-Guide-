@@ -15,6 +15,7 @@
  - [Withdraw and Repay](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md#withdraw-and-repay)
  - [YBX Claim and Issuance](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md#ybx-claim-and-issuance)
  - [Escrowed YBX](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md#escrowed-ybx)
+ - [Governance](https://github.com/theboycoder/Yieldblox-Community-Guide-/blob/main/YieldbloxPlatformGuide.md#governance)
 
 ## Intro
 If you're new to DeFi on Stellar or unfamiliar with YieldBlox, Please read the [Community Guide](https://github.com/theboycoder/Yieldblox-Community-Guide-) and the [YieldBlox Docs](https://docs.ybx.script3.io/user-docs/general) before getting started.
