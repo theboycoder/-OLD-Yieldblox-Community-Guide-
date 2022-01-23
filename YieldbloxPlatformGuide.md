@@ -133,5 +133,17 @@ Claim the issued YBX, and confirm to sign the transaction.
 
 The YBX will be deposited to your wallet and be available to manage on the dashboard.
 
-
 ![deposited ybx](https://user-images.githubusercontent.com/45983304/150666146-c4ec39f0-f0a4-48d4-ba6e-39915f23894e.png)
+
+## Escrowed YBX
+
+YieldBlox users escrow their [YBX tokens](https://docs.ybx.script3.io/user-docs/ybx-tokens) for veYBX which have the ability to vote on YieldBlox [governance proposals](https://docs.ybx.script3.io/user-docs/governance) which includes voing on YBX issuance allocations. In the future protocol, fees may also be paid to YBX escrowers. Basically, users can earn YBX tokens passively and control protocol development-- just for having YBX.
+
+This section will show the YBX issuance allocated to YBX escrows, the amount of escrowed YBX (veYBX) the account has, and the amount of YBX the account has.
+
+![27bfc8695939508befc45a3f6bb41eb1](https://user-images.githubusercontent.com/45983304/150666361-7f90ec60-fe3a-485b-a5fb-3cbdf061ac79.png)
+
+
+Once the 'Manage' button is selected, an escrow modal will appear. There, a user can enter the amount of the YBX they'd like to escrow and the time period they'd like to lock it for. A user can lock their YBX for three months, six months, or a year -- the longer it's locked, the more veYBX a user gets. 
+
+![veYbx](https://user-images.githubusercontent.com/45983304/150666455-463f7fc4-b786-4429-a479-6b1d7a7b2b85.png)
