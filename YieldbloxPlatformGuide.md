@@ -163,3 +163,10 @@ Once the 'Manage' button is selected, an escrow modal will appear. There, a user
 ![veYbx](https://user-images.githubusercontent.com/45983304/150666455-463f7fc4-b786-4429-a479-6b1d7a7b2b85.png)
 
 ![confirm veYbx](https://user-images.githubusercontent.com/45983304/150667799-1fe88920-5594-438a-8d74-c74498510f5b.png)
+
+## Governance
+
+
+The YieldBlox protocol is updated and maintained using a governance token model. Users receive YBX tokens for lending or borrowing, and these tokens can be escrowed for veYBX. veYBX tokens have governance power that can be used to make and vote on protocol updates and changes.
+
+![gov](https://user-images.githubusercontent.com/45983304/150668092-dd33ddf2-534b-464a-a12f-d6da74421c3b.png)
