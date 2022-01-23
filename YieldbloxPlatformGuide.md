@@ -33,6 +33,9 @@ If you're new to DeFi on Stellar or unfamiliar with YieldBlox, Please read the [
   
 - Governance
   - [How does governance work on YieldBlox?](https://docs.ybx.script3.io/user-docs/governance#how-does-governance-work-on-yieldblox)
+  
+- Game Theory of YBX +10
+  - [High-level rational decision making with YBX tokens and the YieldBlox protocol](https://docs.ybx.script3.io/user-docs/ybx-tokens/game-theory-of-ybx)
  
 ## Getting Started
 
