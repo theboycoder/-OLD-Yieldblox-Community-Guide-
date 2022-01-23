@@ -23,7 +23,7 @@ If you're new to DeFi on Stellar or unfamiliar with YieldBlox, Please read the [
 
 After reading the users docs you are ready to get started!
 
-Visit https://www.yieldblox.finance and click on the Launch Testnet button in the right corner to launch the testnet platform
+Visit https://www.yieldblox.finance and click on the Launch Testnet button in the right corner to launch the testnet platform.
 
 ![Untitled-2021-12-22-1013](https://user-images.githubusercontent.com/45983304/150624094-9c3b2fd0-8de0-4ca1-9143-f4d6483cd19b.png)
 
@@ -54,7 +54,7 @@ Lending is simple, click on the asset you want to lend and enter the amount to d
 
 ![9a4b3326dcdc411f82e06ef4fe3dcf46](https://user-images.githubusercontent.com/45983304/150628665-c4663447-3883-4bff-b6b7-c7338ccbeaf5.png)
 
-Confirm the Transaction to continue the lending process
+Confirm the Transaction to continue the lending process.
 
 ![e8e308b6b2e0fda91862c6468cd2857d](https://user-images.githubusercontent.com/45983304/150628704-b133f513-85cd-46a3-8385-5833423617ed.png)
 
@@ -70,16 +70,16 @@ Once the process is successfully done, Your transaction will be submitted!
 
 When borrowing, users deposit assets into the lending pool and withdraw assets they wish to borrow from the pool. To repay, the borrower returns the borrowed assets to the lending pool. Then they are allowed to withdraw their collateral if they choose.
 
-Click on the asset you want to borrow and enter the amount to borrow
+Click on the asset you want to borrow and enter the amount to borrow.
 
 ![Untitled-2021-12-22-1013-borrow](https://user-images.githubusercontent.com/45983304/150629982-0c29a6fb-1096-437e-bf83-99dba9ce89f3.png)
 
 
-Continue the borrow confirmation after entering the borrow amount for the asset
+Continue the borrow confirmation after entering the borrow amount for the asset.
 
 ![144a78ae779fca8aefb7ed6b93caa92b](https://user-images.githubusercontent.com/45983304/150630169-e623568e-2ba7-481a-9b84-6be7d12c8765.png)
 
-Confirm the borrowing asset transaction
+Confirm the borrowing asset transaction.
 
 ![confirm borrow](https://user-images.githubusercontent.com/45983304/150630240-2368fc71-10fc-4b10-8823-3ceb8d3869b8.png)
 
@@ -99,11 +99,11 @@ The borrowed asset follows the same structure as lending. The user will be able 
 
 ![ETH borrow deposit](https://user-images.githubusercontent.com/45983304/150630816-3c4430d6-1898-499c-a1b4-669bb8cd5545.png)
 
-Confirm the asset deposit
+Confirm the asset deposit.
 
 ![confirm eth borrow deposit](https://user-images.githubusercontent.com/45983304/150630875-28f6fbd4-8295-4934-9b2a-5e55d78851ee.png)
 
-Sign and confirm the transaction 
+Sign and confirm the transaction. 
 
 ![6ab317bb9b0d47871a4b73297c118dbc- awd](https://user-images.githubusercontent.com/45983304/150630948-2a831e8c-c97d-4c3a-879b-f144451ad550.png)
 
@@ -118,3 +118,20 @@ Lenders can withdraw assets by using YieldBlox's smart contracts to burn the poo
 Borrowers repay loans by returning all borrowed assets and accrued interest to the YieldBlox lending pool. After doing so, they can withdraw their collateral deposits if they wish.
 
 ![repay](https://user-images.githubusercontent.com/45983304/150631311-d3b8449c-fcc4-4d33-8ed2-315d07e99579.png)
+
+## YBX Claim and Issuance 
+
+YBX issuance is the process by which platform YBX incentives are paid out to protocol lenders (only lenders with collateralized deposits receive YBX incentives), borrowers, and stakers. Issuance is paid out daily and tracked and distributed with 2 different processes, Issuance Tracking and YBX Claims.
+
+![Claim issuance](https://user-images.githubusercontent.com/45983304/150665993-7da52411-3671-46e3-92ef-614d38ecf684.png)
+
+Claim the issued YBX, and confirm to sign the transaction.
+
+![claim ybx](https://user-images.githubusercontent.com/45983304/150666037-2116cfe0-00bf-46d9-aa66-8a8dd8277435.png)
+
+![claim confirm](https://user-images.githubusercontent.com/45983304/150666039-b796fa70-da1d-4841-8080-120e8c1b5ebf.png)
+
+The YBX will be deposited to your wallet and be available to manage on the dashboard.
+
+
+![deposited ybx](https://user-images.githubusercontent.com/45983304/150666146-c4ec39f0-f0a4-48d4-ba6e-39915f23894e.png)
