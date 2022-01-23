@@ -161,3 +161,5 @@ This section will show the YBX issuance allocated to YBX escrows, the amount of 
 Once the 'Manage' button is selected, an escrow modal will appear. There, a user can enter the amount of the YBX they'd like to escrow and the time period they'd like to lock it for. A user can lock their YBX for three months, six months, or a year -- the longer it's locked, the more veYBX a user gets. 
 
 ![veYbx](https://user-images.githubusercontent.com/45983304/150666455-463f7fc4-b786-4429-a479-6b1d7a7b2b85.png)
+
+![confirm veYbx](https://user-images.githubusercontent.com/45983304/150667799-1fe88920-5594-438a-8d74-c74498510f5b.png)
